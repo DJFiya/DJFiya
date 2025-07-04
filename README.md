@@ -85,6 +85,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DJFiya/DJFiya/output/snake.svg" alt="Snake animation" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Lofi coder" width="100%" />
 
 ###
