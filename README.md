@@ -85,6 +85,6 @@
 
 ###
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Lofi coder" width="100%" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDQ4cDg2bTlnZG02Y3Rxdzlia291bjB6Y2oxeDNuYWFiOHlyNnhjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5ffIYwJoEpVcMOYiO/giphy.gif" alt="Lofi coder" width="100%" />
 
 ###
