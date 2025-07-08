@@ -83,8 +83,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
 </div>
 
-###
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDQ4cDg2bTlnZG02Y3Rxdzlia291bjB6Y2oxeDNuYWFiOHlyNnhjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5ffIYwJoEpVcMOYiO/giphy.gif" alt="Lofi coder" width="100%" />
-
-###
