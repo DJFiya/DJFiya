@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋 I'm Daevik Jain, a Biomedical Engineering Student at the University of Waterloo 🧠🔬. I have hands-on experience across Game Development 🎮, AI 🤖, UI/UX 🎨, Quality Assurance ✅, and Software Engineering 💻!</h2>
+<h2 align="center">Hi, I'm Daevik Jain, a Biomedical and Software Engineering Student at the University of Waterloo. I have hands-on experience across Software Engineering, AI/ML, UI/UX, Quality Assurance, and Game Development!</h2>
 
 ###
 
