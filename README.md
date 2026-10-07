@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Daevik Jain, a Biomedical and Software Engineering Student at the University of Waterloo.</h2>
+<h2 align="center">Hi, I'm Daevik Jain, a Biomedical and Software Eng Student at the University of Waterloo.</h2>
 
 ###
 
