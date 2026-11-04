@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Hi,%20I'm%20Daevik;Biomedical%20%2B%20Software%20Eng%20%40%20Waterloo;SWE%20%40%20Courtyard%20AI&font=Fira%20Code&center=true&width=520&height=45&vCenter=true&pause=1000&size=22&color=FFFFFF" alt="Hi, I'm Daevik" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Hi,%20I'm%20Daevik;Biomedical%20%2B%20Software%20Eng%20%40%20Waterloo;SWE%20%40%20Courtyard%20AI&font=Fira%20Code&center=true&width=520&height=45&vCenter=true&pause=1000&size=22&color=2F81F7" alt="Hi, I'm Daevik" /></a>
 </p>
 
 <img align="right" width="255" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzc4eWdjZ3k4dzEyMzMxN3VyeWR5aGc2d2lkbzMzMGJtMTB5N2F5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8ZUVnnwXVESl7YvEjj/giphy.gif" />
